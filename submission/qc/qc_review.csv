@@ -1,0 +1,8 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,1,sai_lop,Phong,three_wheeler thực tế phải được gán truck
+img_003.jpg,16,sai_vi_tri_kich_thuoc,Phong,Person box quá rộng hoặc sai phạm vi; cần đối chiếu từng box
+img_003.jpg,17,bo_sot,Phong,Bỏ sót một người phụ nữ
+img_006.jpg,64,thua,Phong,Có person box nằm ở vùng không có người
+img_014.jpg,17,thua,Phong,Có 2 person box và 1 three_wheeler box không tương ứng đối tượng cần gán nhãn
+img_031.jpg,372,sai_vi_tri_kich_thuoc,Phong,Bicycle box quá rộng
+img_035.jpg,424,sai_lop,Phong,Three_wheeler bị gán nhãn person
